@@ -30,10 +30,3 @@ sudo npm install -g bower grunt-cli
 sudo gem install sass
 ```
 
-## Usage
-
-```sh
-git clone <Fork of this repository>
-npm install && bower install
-grunt serve
-```
